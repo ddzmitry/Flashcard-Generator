@@ -14,6 +14,6 @@
 </ul>
 
 <p align="center">
-  <video src="http://recordit.co/bucW8xuXfm/" width="550"/>
+  <img src="http://g.recordit.co/3rVxvdOrnv.gif" width="550"/>
 </p>
 
